@@ -1,6 +1,6 @@
 # Titre du projet : Semantic head motion prediction in Virtual Reality videos
-- Encadrant : Frédéric Precioso, Laboratoire I3S 
-- Co-encadrants : Miguel Romero @MiguelFRomeroR et Lucile Sassatelli @sassatelli
+- Encadrant :  [Frédéric Preciosos](mailto:frederic.precioso@.fr), Laboratoire I3S 
+- Co-encadrants : [Miguel Romero](mailto:miguelfromeror@gmail.com) @MiguelFRomeroR et [Lucile Sassatelli](mailto:sassatelli@i3s.unice.fr) @sassatelli
 - Nom de l'étudiant : Mohamed YOUNES SI5 Parcours SD
 ## Résumé du contexte et le périmètre de l'étude à réaliser :
 #### L’adoption massive de la réalité virtuelle représente un défi majeur : le streaming sur Internet. 
